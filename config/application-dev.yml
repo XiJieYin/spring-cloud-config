@@ -1,4 +1,4 @@
 server:
-  port: 8080
+  port: 802
 dfn:
   desc: demo for spring cloud~
